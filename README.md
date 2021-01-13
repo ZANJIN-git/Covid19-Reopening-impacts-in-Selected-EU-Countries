@@ -1,5 +1,5 @@
 # Covid19-Reopening-impacts-in-Selected-EU-Countries
-The code generates two simple charts used for our [reopening project].(https://www.imf.org/en/Publications/WP/Issues/2020/10/21/Exiting-from-Lockdowns-Early-Evidence-from-Reopenings-in-Europe-49826)
+The code generates two simple charts used for our [reopening project](https://www.imf.org/en/Publications/WP/Issues/2020/10/21/Exiting-from-Lockdowns-Early-Evidence-from-Reopenings-in-Europe-49826).
 
 # Author 
 Zan Jin
